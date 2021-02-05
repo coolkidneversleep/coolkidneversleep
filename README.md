@@ -4,19 +4,19 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 8 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
 > 📦 3.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -63,10 +63,10 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Ruby                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Dart                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+JavaScript               3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Ruby                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
