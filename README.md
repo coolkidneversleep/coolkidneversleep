@@ -63,11 +63,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
-Dart                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
+Dart                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Ruby                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
