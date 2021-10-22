@@ -8,13 +8,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 340 Contributions in the Year 2021
+> 🏆 342 Contributions in the Year 2021
  > 
 > 📦 41.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -73,5 +73,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
