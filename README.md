@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,5 +73,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2022 16:05:43 UTC
+ Last Updated on 03/03/2022 16:08:19 UTC
 <!--END_SECTION:waka-->
